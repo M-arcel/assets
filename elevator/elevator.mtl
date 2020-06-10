@@ -8,11 +8,10 @@ Kd 0.701961 0.701961 0.701961
 Ks 0.330000 0.330000 0.330000
 map_Kd elevator/Aluminum.jpg
 
-newmtl Metal_Silver
+newmtl Color_I02
 Ka 0.000000 0.000000 0.000000
-Kd 0.917647 0.913725 0.933333
+Kd 0.600000 0.600000 1.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd elevator/Metal_Silver.jpg
 
 newmtl Wood_Floor_Light
 Ka 0.000000 0.000000 0.000000
@@ -30,12 +29,6 @@ Ka 0.000000 0.000000 0.000000
 Kd 0.462745 0.466667 0.450980
 Ks 0.330000 0.330000 0.330000
 map_Kd elevator/Metal_Seamed.jpg
-
-newmtl Metal_Rough
-Ka 0.000000 0.000000 0.000000
-Kd 0.600000 0.615686 0.627451
-Ks 0.330000 0.330000 0.330000
-map_Kd elevator/Metal_Rough.jpg
 
 newmtl M_0056_Yellow
 Ka 0.000000 0.000000 0.000000
