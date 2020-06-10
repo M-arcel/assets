@@ -1,0 +1,33 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd elevator/Metal_Seamed.jpg
+
+newmtl Formica_Laminate_Dark
+Ka 0.000000 0.000000 0.000000
+Kd 0.196078 0.207843 0.235294
+Ks 0.330000 0.330000 0.330000
+map_Kd elevator/Formica_Laminate_Dark.jpg
+
+newmtl Wood_Floor_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.690196 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd elevator/Wood_Floor_Light.jpg
+
+newmtl Mirror_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.725490 0.725490
+Ks 0.330000 0.330000 0.330000
+map_Kd elevator/Mirror_01.jpg
+
+newmtl Color_E05
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
