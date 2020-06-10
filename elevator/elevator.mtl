@@ -2,17 +2,17 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl Metal_Seamed
+newmtl Aluminum
 Ka 0.000000 0.000000 0.000000
-Kd 0.462745 0.466667 0.450980
+Kd 0.701961 0.701961 0.701961
 Ks 0.330000 0.330000 0.330000
-map_Kd elevator/Metal_Seamed.jpg
+map_Kd elevator/Aluminum.jpg
 
-newmtl Formica_Laminate_Dark
+newmtl Metal_Silver
 Ka 0.000000 0.000000 0.000000
-Kd 0.196078 0.207843 0.235294
+Kd 0.917647 0.913725 0.933333
 Ks 0.330000 0.330000 0.330000
-map_Kd elevator/Formica_Laminate_Dark.jpg
+map_Kd elevator/Metal_Silver.jpg
 
 newmtl Wood_Floor_Light
 Ka 0.000000 0.000000 0.000000
@@ -20,11 +20,27 @@ Kd 0.800000 0.690196 0.498039
 Ks 0.330000 0.330000 0.330000
 map_Kd elevator/Wood_Floor_Light.jpg
 
-newmtl Mirror_01
+newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
-Kd 0.725490 0.725490 0.725490
+Kd 1.000000 1.000000 1.000000
 Ks 0.330000 0.330000 0.330000
-map_Kd elevator/Mirror_01.jpg
+
+newmtl Metal_Seamed
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd elevator/Metal_Seamed.jpg
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.615686 0.627451
+Ks 0.330000 0.330000 0.330000
+map_Kd elevator/Metal_Rough.jpg
+
+newmtl M_0056_Yellow
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 0.000000
+Ks 0.330000 0.330000 0.330000
 
 newmtl Color_E05
 Ka 0.000000 0.000000 0.000000
